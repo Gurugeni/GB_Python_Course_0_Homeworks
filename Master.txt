@@ -1,0 +1,2 @@
+print("something like index, just placeholder for master branch")
+input()
